@@ -129,6 +129,7 @@ Made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
+- [StiffGif](https://github.com/denistsoi/stiffgif) - A Menubar Application for finding GIFs (Giphy/Popkey +more)
 
 ### Closed Source
 
